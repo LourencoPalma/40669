@@ -24,17 +24,11 @@ namespace MonitrGw
         {
             add
             {
-                lock (dictionaryOfEvents)
-                {
-                    dictionaryOfEvents["LastNewsEvent"] = (LastNewsEventHandler)dictionaryOfEvents["LastNewsEvent"] + value;
-                }
+                dictionaryOfEvents["LastNewsEvent"] = (LastNewsEventHandler)dictionaryOfEvents["LastNewsEvent"] + value;
             }
             remove
             {
-                lock (dictionaryOfEvents)
-                {
-                    dictionaryOfEvents["LastNewsEvent"] = (LastNewsEventHandler)dictionaryOfEvents["LastNewsEvent"] - value;
-                }
+                dictionaryOfEvents["LastNewsEvent"] = (LastNewsEventHandler)dictionaryOfEvents["LastNewsEvent"] - value;
             }
         }
 
@@ -42,17 +36,11 @@ namespace MonitrGw
         {
             add
             {
-                lock (dictionaryOfEvents)
-                {
-                    dictionaryOfEvents["StockCompetitorsEvent"] = (StockCompetitorsEventHandler)dictionaryOfEvents["StockCompetitorsEvent"] + value;
-                }
+                dictionaryOfEvents["StockCompetitorsEvent"] = (StockCompetitorsEventHandler)dictionaryOfEvents["StockCompetitorsEvent"] + value;
             }
             remove
             {
-                lock (dictionaryOfEvents)
-                {
                     dictionaryOfEvents["StockCompetitorsEvent"] = (StockCompetitorsEventHandler)dictionaryOfEvents["StockCompetitorsEvent"] - value;
-                }
             }
         }
 
@@ -60,17 +48,11 @@ namespace MonitrGw
         {
             add
             {
-                lock (dictionaryOfEvents)
-                {
-                    dictionaryOfEvents["StockAnalysisEvent"] = (StockAnalysisEventHandler)dictionaryOfEvents["StockAnalysisEvent"] + value;
-                }
+                dictionaryOfEvents["StockAnalysisEvent"] = (StockAnalysisEventHandler)dictionaryOfEvents["StockAnalysisEvent"] + value;
             }
             remove
             {
-                lock (dictionaryOfEvents)
-                {
-                    dictionaryOfEvents["StockAnalysisEvent"] = (StockAnalysisEventHandler)dictionaryOfEvents["StockAnalysisEvent"] - value;
-                }
+                dictionaryOfEvents["StockAnalysisEvent"] = (StockAnalysisEventHandler)dictionaryOfEvents["StockAnalysisEvent"] - value;
             }
         }
         
