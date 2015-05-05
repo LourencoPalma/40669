@@ -40,7 +40,7 @@ namespace MonitrGw
             }
             remove
             {
-                    dictionaryOfEvents["StockCompetitorsEvent"] = (StockCompetitorsEventHandler)dictionaryOfEvents["StockCompetitorsEvent"] - value;
+                dictionaryOfEvents["StockCompetitorsEvent"] = (StockCompetitorsEventHandler)dictionaryOfEvents["StockCompetitorsEvent"] - value;
             }
         }
 
