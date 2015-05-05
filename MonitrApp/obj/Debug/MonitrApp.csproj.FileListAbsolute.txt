@@ -1,0 +1,10 @@
+C:\Users\Lourenço\Documents\AVE\TPC 9\MonitrApp\bin\Debug\MonitrApp.exe.config
+C:\Users\Lourenço\Documents\AVE\TPC 9\MonitrApp\bin\Debug\MonitrApp.exe
+C:\Users\Lourenço\Documents\AVE\TPC 9\MonitrApp\bin\Debug\MonitrApp.pdb
+C:\Users\Lourenço\Documents\AVE\TPC 9\MonitrApp\bin\Debug\MonitrGw.dll
+C:\Users\Lourenço\Documents\AVE\TPC 9\MonitrApp\bin\Debug\RestSharp.dll
+C:\Users\Lourenço\Documents\AVE\TPC 9\MonitrApp\bin\Debug\MonitrGw.pdb
+C:\Users\Lourenço\Documents\AVE\TPC 9\MonitrApp\bin\Debug\RestSharp.xml
+C:\Users\Lourenço\Documents\AVE\TPC 9\MonitrApp\obj\Debug\MonitrApp.csprojResolveAssemblyReference.cache
+C:\Users\Lourenço\Documents\AVE\TPC 9\MonitrApp\obj\Debug\MonitrApp.exe
+C:\Users\Lourenço\Documents\AVE\TPC 9\MonitrApp\obj\Debug\MonitrApp.pdb

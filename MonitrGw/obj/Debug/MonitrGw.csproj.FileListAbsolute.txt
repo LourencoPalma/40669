@@ -1,0 +1,7 @@
+C:\Users\Lourenço\Documents\AVE\TPC 9\MonitrGw\bin\Debug\MonitrGw.dll
+C:\Users\Lourenço\Documents\AVE\TPC 9\MonitrGw\bin\Debug\MonitrGw.pdb
+C:\Users\Lourenço\Documents\AVE\TPC 9\MonitrGw\bin\Debug\RestSharp.dll
+C:\Users\Lourenço\Documents\AVE\TPC 9\MonitrGw\bin\Debug\RestSharp.xml
+C:\Users\Lourenço\Documents\AVE\TPC 9\MonitrGw\obj\Debug\MonitrGw.csprojResolveAssemblyReference.cache
+C:\Users\Lourenço\Documents\AVE\TPC 9\MonitrGw\obj\Debug\MonitrGw.dll
+C:\Users\Lourenço\Documents\AVE\TPC 9\MonitrGw\obj\Debug\MonitrGw.pdb
